@@ -49,8 +49,6 @@ Sesuai dengan panduan praktikum, struktur utama aplikasi mencakup:
 
 ## 📸 Tampilan Aplikasi
 
-*(Opsional: Kamu bisa menambahkan screenshot dari folder `res` atau gambar yang kamu miliki di sini)*
-
 1. **Onboarding 1-4:** Perkenalan dan Input Nama.
 2. **HomeScreen:** Menampilkan daftar jurnal dan sapaan personal ("Hi, Rain!").
 3. **Journal Screen:** Form untuk menambah atau mengubah catatan.
